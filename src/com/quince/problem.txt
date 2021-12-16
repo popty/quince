@@ -1,0 +1,3 @@
+QUINCE MACHINE CODING ROUND
+
+board, palyers, snake, ladder, dice, game
